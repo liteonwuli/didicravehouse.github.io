@@ -88,6 +88,7 @@ Where cravings come to confess
   <section class="bg-orange-50 px-6 py-16 text-center">
     <h2 class="text-3xl font-semibold">Payment Details</h2>
     <p class="mt-4 text-lg">Account Number: <strong>9160381811</strong></p>
+    <p class="mt-4 text-lg">OPAY: DIVINE NKEONYEASUA ONWULI</p>
     <p class="text-gray-600 mt-2">Transfer and send proof on WhatsApp</p>
   </section>
 
